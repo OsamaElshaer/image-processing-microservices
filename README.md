@@ -2,7 +2,7 @@
 
 ## Overview
 
-This application is a microservices-based system that handles user authentication, image uploads, image processing, and notifications. It utilizes RabbitMQ for inter-service communication, Redis for caching, and OpenTelemetry for distributed tracing and nginx as gateway.
+This application is a microservices-based system that handles user authentication, image uploads, image processing, and notifications. It utilizes RabbitMQ for inter-service communication, Redis for caching, and OpenTelemetry for distributed tracing and ELK Stack (Elasticsearch, Logstash, Kibana) for distributed logging and nginx as gateway.
 
 ## Architecture
 
